@@ -16,8 +16,9 @@ public class PlayerSetup : NetworkBehaviour {
 		if (!isLocalPlayer) {
 			for (int i = 0; i < ComponentToDisable.Length; i++)
 				ComponentToDisable [i].enabled = false;
+			avatar.ShowFirstPerson = false;
+			avatar.ShowThirdPerson = true;
 		}
-		avatar.ShowFirstPerson = false;
-		avatar.ShowThirdPerson = true;
+
 	}
 }
