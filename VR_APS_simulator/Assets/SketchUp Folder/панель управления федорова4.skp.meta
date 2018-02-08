@@ -8,16 +8,16 @@ SketchUpImporter:
   selectedNodes: 0000000001000000
   assetHash:
     serializedVersion: 2
-    Hash: 568d062b5510f5ad6b7c4b963e60bdde
+    Hash: 4da3aac3e1a2f4599c20e2b299fec233
   longitude: 37.616667
   latitude: 55.75
   northCorrection: -0
   fileUnit: 0
   sketchUpImportData:
     defaultCamera:
-      position: {x: 0.7921567, y: 0.8937623, z: -1.6185753}
-      lookAt: {x: 0.44543403, y: -0.1800965, z: 1.4247516}
-      up: {x: -0.03745057, y: 0.94368494, z: 0.32871902}
+      position: {x: 0.6744993, y: 1.7368395, z: -0.6351989}
+      lookAt: {x: 0.48720562, y: -1.0750896, z: 0.97514397}
+      up: {x: -0.10008508, y: 0.4994754, z: 0.86052734}
       fov: 35
       aspectRatio: 0
       orthoSize: 1
@@ -32,6 +32,10 @@ SketchUpImporter:
     2100004: '[Chris_Skin]'
     2100006: '[Chris_Shirt]'
     2100008: '[White Tile Black Accent]'
+    2100010: '[Color M03]'
+    2100012: '[Color M02]'
+    2100014: '[Aluminum]'
+    2100016: '[Mirror 01]'
     2300000: //RootNode
     3300000: //RootNode
     4300000: "Mesh \u043F\u0430\u043D\u0435\u043B\u044C \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F
