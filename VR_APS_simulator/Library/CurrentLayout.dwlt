@@ -113,7 +113,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 379
+<<<<<<< HEAD
     height: 577
+=======
+    height: 573
+>>>>>>> 91ffb893d596d868eb5bd573109708bf4e379219
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
@@ -277,15 +281,26 @@ MonoBehaviour:
     x: 379
     y: 0
     width: 768
+<<<<<<< HEAD
     height: 577
   m_MinSize: {x: 404, y: 121}
   m_MaxSize: {x: 2052, y: 2069}
   m_ActualView: {fileID: 14}
+=======
+    height: 573
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 19}
+>>>>>>> 91ffb893d596d868eb5bd573109708bf4e379219
   m_Panes:
   - {fileID: 18}
   - {fileID: 19}
   - {fileID: 14}
+<<<<<<< HEAD
   m_Selected: 2
+=======
+  m_Selected: 1
+>>>>>>> 91ffb893d596d868eb5bd573109708bf4e379219
   m_LastSelected: 0
 --- !u!114 &13
 MonoBehaviour:
@@ -387,19 +402,41 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
+<<<<<<< HEAD
     - Assets/OvrAvatar/Samples/SocialStarter/Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets/OvrAvatar/Samples/SocialStarter/Assets/Scripts
+=======
+    - Assets
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets
+>>>>>>> 91ffb893d596d868eb5bd573109708bf4e379219
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Gruppa_4\Documents\GitHub\VR_APS_simulator\VR_APS_simulator
+  m_LastProjectPath: D:\Github\VR_APS_Simulator\VR_APS_simulator
   m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 319}
     m_SelectedIDs: 9e2b0000
     m_LastClickedID: 11166
     m_ExpandedIDs: 000000000a2b00002e2b0000a22b0000882c0000982c0000ae2c0000d62c00003c2d00000e2f000000ca9a3bffffff7f
+=======
+<<<<<<< HEAD
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: c2310000
+    m_LastClickedID: 12738
+    m_ExpandedIDs: 00000000c2310000523200003c330000523300007a330000de330000a634000000ca9a3bffffff7f
+=======
+    scrollPos: {x: 0, y: 336}
+    m_SelectedIDs: 422b0000
+    m_LastClickedID: 11074
+    m_ExpandedIDs: 000000000a2b00002e2b0000a22b0000882c0000982c0000ae2c0000d62c00003c2d00000c2f000000ca9a3bffffff7f
+>>>>>>> ab6e4c88f0a09e32cb55e3445d8ab1514c5c2477
+>>>>>>> 91ffb893d596d868eb5bd573109708bf4e379219
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -427,7 +464,15 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000000a2b00002e2b0000a22b0000882c0000982c0000ae2c0000d62c00003c2d00000e2f0000
+=======
+<<<<<<< HEAD
+    m_ExpandedIDs: 00000000c2310000523200003c330000523300007a330000de330000a6340000
+=======
+    m_ExpandedIDs: 000000000a2b0000a22b0000982c0000ae2c0000d62c00003c2d00000c2f0000
+>>>>>>> ab6e4c88f0a09e32cb55e3445d8ab1514c5c2477
+>>>>>>> 91ffb893d596d868eb5bd573109708bf4e379219
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -454,8 +499,13 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
+<<<<<<< HEAD
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c6230000442b0000
+=======
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000442b0000342b0000
+>>>>>>> ab6e4c88f0a09e32cb55e3445d8ab1514c5c2477
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -547,7 +597,15 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 866dffff60f6ffff6af6ffff82f6ffffd4f6ffffd6f6ffff9cfbffff00000000
+=======
+<<<<<<< HEAD
+    m_ExpandedIDs: eef5ffff00000000
+=======
+    m_ExpandedIDs: 22a6ffff14aeffff8ab9ffffaac9ffff1ce0ffff48ecffff9cfbffff00000000e6310000ee31000000320000
+>>>>>>> ab6e4c88f0a09e32cb55e3445d8ab1514c5c2477
+>>>>>>> 91ffb893d596d868eb5bd573109708bf4e379219
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
