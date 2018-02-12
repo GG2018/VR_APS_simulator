@@ -20,7 +20,11 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 7}
+<<<<<<< HEAD
   m_MinSize: {x: 950, y: 371}
+=======
+  m_MinSize: {x: 950, y: 542}
+>>>>>>> 5d7b001f715b44b5085f96edde5aa104352ad0eb
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -67,8 +71,13 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
+<<<<<<< HEAD
   m_MinSize: {x: 958, y: 321}
   m_MaxSize: {x: 16008, y: 8021}
+=======
+  m_MinSize: {x: 954, y: 492}
+  m_MaxSize: {x: 16004, y: 14042}
+>>>>>>> 5d7b001f715b44b5085f96edde5aa104352ad0eb
   vertical: 0
   controlID: 9
 --- !u!114 &4
@@ -139,14 +148,14 @@ MonoBehaviour:
     y: 573
     width: 1531
     height: 374
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 20}
+  m_MinSize: {x: 232, y: 271}
+  m_MaxSize: {x: 10002, y: 10021}
+  m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
   - {fileID: 20}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -231,8 +240,13 @@ MonoBehaviour:
     y: 0
     width: 1531
     height: 947
+<<<<<<< HEAD
   m_MinSize: {x: 683, y: 321}
   m_MaxSize: {x: 12008, y: 8021}
+=======
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 12004, y: 14042}
+>>>>>>> 5d7b001f715b44b5085f96edde5aa104352ad0eb
   vertical: 1
   controlID: 10
 --- !u!114 &11
@@ -387,19 +401,26 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Gruppa_4\Documents\GitHub\VR_APS_simulator\VR_APS_simulator
   m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 368}
     m_SelectedIDs: 3c2b0000
     m_LastClickedID: 11068
     m_ExpandedIDs: 000000009e310000c03100002e3200000a330000183300002e33000056330000ba33000082340000
+=======
+    scrollPos: {x: 0, y: 336}
+    m_SelectedIDs: 422b0000
+    m_LastClickedID: 11074
+    m_ExpandedIDs: 000000000a2b00002e2b0000a22b0000882c0000982c0000ae2c0000d62c00003c2d0000e42e000000ca9a3bffffff7f
+>>>>>>> 5d7b001f715b44b5085f96edde5aa104352ad0eb
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -427,7 +448,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000009e310000c03100002e3200000a330000183300002e33000056330000ba33000082340000
+=======
+    m_ExpandedIDs: 000000000a2b00002e2b0000a22b0000882c0000982c0000ae2c0000d62c00003c2d0000e42e0000
+>>>>>>> 5d7b001f715b44b5085f96edde5aa104352ad0eb
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -547,21 +572,25 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 14f5ffff00000000
+=======
+    m_ExpandedIDs: b8fbfeffd6fbfeffdefbfeffeefbfefff6fbfeffce83ffffdc83ffff0484ffff0684ffff74c2ffff7cc2ffff8cc2ffff94c2ffff9cfbffff00000000
+>>>>>>> 5d7b001f715b44b5085f96edde5aa104352ad0eb
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Network Manager
+      m_OriginalName: Network Manager
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 11854
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
@@ -633,9 +662,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-    m_Target: 2.5416586
+    m_Target: 4.338284
     speed: 2
-    m_Value: 2.5416586
+    m_Value: 4.338284
   m_Ortho:
     m_Target: 0
     speed: 2
